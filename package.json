@@ -1,0 +1,25 @@
+{
+  "name": "thelounge-theme-neuron",
+  "version": "1.0.0",
+  "description": "Dark, minimalist, type-focused theme for The Lounge",
+  "main": "package.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easymac/lounge-neuron.git"
+  },
+  "keywords": [
+    "thelounge",
+    "thelounge-theme"
+  ],
+  "author": "easymac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/easymac/lounge-neuron/issues"
+  },
+  "homepage": "https://github.com/easymac/lounge-neuron#readme",
+  "thelounge": {
+    "css": "neuron.css",
+    "name": "Neuron",
+    "type": "theme"
+  }
+}
